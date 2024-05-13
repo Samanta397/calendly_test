@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <a href='https://calendly.com/ritasaman3'>Book call</a>
+        <a href='https://calendly.com/developer-c1nb'>Book call</a>
       </header>
     </div>
   );
